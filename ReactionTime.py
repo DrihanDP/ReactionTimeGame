@@ -1,3 +1,7 @@
+# To run the app, the app name will need to be changed to 'main'. 
+# It will then need to be placed on the root directory of an SD and inserted into a VBOX Touch.
+# Once the VBOX Touch is powered, the app will load over the top of the main VBOX Touch app.
+
 import gui
 import vts
 
